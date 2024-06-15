@@ -1,4 +1,14 @@
+/*******************************************************
 
+Copyright (C) 2022-2024 Shanacoder support@shanacoder.com
+
+This file is part of ShanaCoder.
+
+project can not be copied and/or distributed without the express
+
+permission of ShanaCoder
+
+*******************************************************/
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purpose.
