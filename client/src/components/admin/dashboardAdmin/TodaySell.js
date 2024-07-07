@@ -37,7 +37,7 @@ const SellTable = () => {
         <table className="table-auto border w-full my-2">
           <thead>
             <tr>
-              <th className="px-4 py-2 border">PIN Code</th>
+              <th className="px-4 py-2 border">Price</th>
               <th className="px-4 py-2 border">Image</th>
               <th className="px-4 py-2 border">Status</th>
               <th className="px-4 py-2 border">Request Address</th>
